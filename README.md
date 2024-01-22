@@ -1,9 +1,0 @@
-- 👋 Hi, I’m @hilallcettiin 18 years old
-- 👀 I’m web programming  interested in ...
-- 🌱 I’m 3Ds MAX currently learning ...
-- 📫 You can reach me from the links in my profile...
-
-<!---
-hilallcettiin/hilallcettiin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
